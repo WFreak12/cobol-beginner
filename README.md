@@ -1,13 +1,62 @@
 # cobol-beginner
 Learn how to use COBOL and GitHub 
 
-## smaller header
-Here is how to make a link: [linktogoogle](http://www.google.com)
-Here is **bold text**  
-Here is *italic text* _italictesttwo_
-![testpicture](https://images.squarespace-cdn.com/content/v1/5a5906400abd0406785519dd/1552662149940-G6MMFW3JC2J61UBPROJ5/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/baelen.jpg?format=1500w)
+## Markdown Header 2 Size
 
-## bold text header
-Here is how to make a link: [**linktogoogle**](http://www.google.com)
-Here is **bold text**  
-Here is ***italic and bold text*** _italictesttwo_  
+<H2>HTML Header 2 Size</H2>
+
+Here is how to make a hyperlink:
+
+* [markdown hyperlink to google](http://www.google.com)
+* <a href="http://www.github.com">html hyperlink to github.com</a>
+
+
+Here is **bold** text:
+
+* **markdown bold**
+* <b>html bold</b>
+
+Here is *italic* text:
+
+* _Markdown underscore_
+* *Markdown astrerisk*
+* <i>html italic</i>
+
+Strike out text:
+
+* ~~markdown~~
+* <s>html</s>
+
+Lists:
+
+* Markdown
+* one
+* two
+
+<ul>
+    <li>html</li>
+    <li>one</li>
+    <li>two</li>
+</ul>
+
+Code:
+
+* `markdown`
+* <code>html</code>
+
+<div class="well">
+    This is a text well
+</div>
+
+Center Alignment:
+
+-> Markdown <-
+
+<center>html</center>
+
+
+-> ![testpicture](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg) <-
+
+
+<a href="http://www.gmail.com"><img alt="remote island dock" src="https://image.shutterstock.com/image-photo/bright-spring-view-cameo-island-260nw-1048185397.jpg"></a>
+
