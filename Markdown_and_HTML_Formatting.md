@@ -16,7 +16,7 @@ Here is **bold** text:
 Here is *italic* text:
 
 * _Markdown underscore_
-* *Markdown astrerisk*
+* *Markdown asterisk*
 * <i>html italic</i>
 
 Strike out text:
